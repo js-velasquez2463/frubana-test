@@ -16,5 +16,5 @@ node caso1.js
 ```
 node caso2.js
 ```
-The two test cases have an input file called input.txt or input2.txt respectivelly. The format of each testCase is developed according to the test specification. After run the test case with the command specified en the previous version, it generates an output file called output.txt or output2.txt respectivelly.
+The two test cases have an input file called input.txt or input2.txt respectivelly. The format of each testCase is developed according to the test specification. After run the test case with the command specified in the previous version, it generates an output file called output.txt or output2.txt respectivelly.
 The code files of each test case are caso1.js and caso2.js. The lenguage used to develop this code is Javascript with Node Js. Additionally there is a file called Preguntas Adicionales with the answers of the aditionally questions.
